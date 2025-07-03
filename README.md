@@ -15,4 +15,4 @@ It supports addition, subtraction, multiplication, and division operations.
 
 ---
 
-Made with ❤️ by [Mohan Sarma](https://github.com/smohansarma)
+Made by [Mohan Sarma](https://github.com/smohansarma)
