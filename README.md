@@ -1,2 +1,10 @@
-# calculator-app
-A simple calculator built with HTML, CSS, and JavaScript
+# Calculator App
+
+This is a basic calculator built using HTML, CSS, and JavaScript.  
+It supports addition, subtraction, multiplication, and division operations.
+
+## Features
+- Clean UI using CSS Grid
+- Button click functionality
+- Input display and result output
+- Clear (`C`) and Evaluate (`=`) support
