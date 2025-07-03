@@ -8,3 +8,11 @@ It supports addition, subtraction, multiplication, and division operations.
 - Button click functionality
 - Input display and result output
 - Clear (`C`) and Evaluate (`=`) support
+- 
+## 📺 Live Demo
+
+👉 [Click here to try it](https://smohansarma.github.io/calculator-app/)
+
+---
+
+Made with ❤️ by [Mohan Sarma](https://github.com/smohansarma)
